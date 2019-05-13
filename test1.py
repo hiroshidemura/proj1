@@ -1,0 +1,7 @@
+
+
+name = "Demu"
+
+print(name)
+
+
