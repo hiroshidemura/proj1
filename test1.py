@@ -1,7 +1,15 @@
 
 
-name = "Demu"
+dic = {"a":"A",
+"b":"B",
+"c":"C"
+}
 
-print(name)
 
+
+def show(**kwargs):
+    print(kwargs)
+
+
+show(**dic)
 
